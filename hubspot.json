@@ -1,9 +1,0 @@
-{
-  "type": "ACTION_HOOK",
-  "httpMethod": "POST",
-  "uri": "https://examplecompany.com/action-hook",
-  "label": "Hook Action for Contract",
-  "associatedObjectProperties": [
-    "demo1_crm_property"
-  ] 
-}
