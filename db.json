@@ -1,11 +1,26 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 4" },
-    { "id": 2, "title": "Post 5" },
-    { "id": 3, "title": "Post 6" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "results": [
+    {
+      "properties": [
+        {
+          "label": "BCI Internal CRM Page",
+          "dataType": "LINK",
+          "value": "https://www.hubspot.com",
+          "linkLabel": "BCI Internal CRM Page"
+        },
+        {
+          "label": "BCI Quote Creation & List",
+          "dataType": "LINK",
+          "value": "https://www.hubspot.com",
+          "linkLabel": "BCI Quote Creation & List"
+        },
+        {
+          "label": "BCI Quote Creation & List",
+          "dataType": "LINK",
+          "value": "https://www.hubspot.com",
+          "linkLabel": "BCI Quote Creation & List"
+        }
+      ]
+    }
   ]
 }
