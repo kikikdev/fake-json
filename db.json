@@ -7,10 +7,22 @@
       "bci_internal_crm_page": "https://internal.bciaustralia.com/sales/firm_view.cfm?sub_firmID=56997167",
       "properties": [
         {
-          "label": "bci_internal_crm_page",
+          "label": "BCI Internal CRM Page",
           "dataType": "LINK",
           "value": "https://internal.bciaustralia.com/sales/firm_view.cfm?sub_firmID=56997167",
-          "linkLabel": "BCI Internal CRM Page"
+          "linkLabel": "Click Here"
+        },
+        {
+          "label": "BCI Quote Creation & List",
+          "dataType": "LINK",
+          "value": "https://internal.bciaustralia.com/sales/quotation_view_all_new.cfm?sub_firmid=56997167",
+          "linkLabel": "Click Here"
+        },
+        {
+          "label": "BCI Quote Creation & List",
+          "dataType": "LINK",
+          "value": "https://app-cmc.bcicentral.com/main/client-scorecard?firmId=56997167",
+          "linkLabel": "Click Here"
         }
       ]
     }
