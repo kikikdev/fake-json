@@ -2,7 +2,7 @@
   "results": [
     {
       "objectId": 123,
-      "title": "BCI Internal Link :",
+      "title": "BCI Internal Link: ",
       "properties": [
         {
           "label": "BCI Internal CRM Page",
@@ -17,7 +17,7 @@
           "linkLabel": "Click Here"
         },
         {
-          "label": "BCI Quote Creation & List",
+          "label": "Client Scorecard Link",
           "dataType": "LINK",
           "value": "https://app-cmc.bcicentral.com/main/client-scorecard?firmId=56997167",
           "linkLabel": "Click Here"
