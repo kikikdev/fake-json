@@ -4,30 +4,7 @@
       "objectId": 123,
       "title": "BCI Internal Link",
       "name": "This is Company Name",
-      "link": "https://internal.bciaustralia.com",
-      "actions": [
-        {
-          "type": "IFRAME",
-          "uri": "https://internal.bciaustralia.com/sales/firm_view.cfm?sub_firmID=56997167",
-          "label": "BCI Internal CRM Page",
-          "width": 890,
-          "height": 748
-        },
-        {
-          "type": "IFRAME",
-          "uri": "https://internal.bciaustralia.com/sales/quotation_view_all_new.cfm?sub_firmid=56997167",
-          "label": "BCI Quote Creation & List",
-          "width": 890,
-          "height": 748
-        },
-        {
-          "type": "IFRAME",
-          "uri": "https://app-cmc.bcicentral.com/main/client-scorecard?firmId=56997167",
-          "label": "BCI Quote Creation & List",
-          "width": 890,
-          "height": 748
-        }
-      ]
+      "bci_internal_crm_page" : "https://internal.bciaustralia.com/sales/firm_view.cfm?sub_firmID=56997167"
     }
   ]
 }
