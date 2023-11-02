@@ -3,7 +3,6 @@
     {
       "objectId": 123,
       "title": "BCI Internal Link",
-      "name": "This is Company Name",
       "link": "https://internal.bciaustralia.com",
       "actions": [
         {
