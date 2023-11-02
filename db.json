@@ -2,9 +2,7 @@
   "results": [
     {
       "objectId": 123,
-      "title": "BCI Internal Link",
-      "name": "This is Company Name",
-      "bci_internal_crm_page": "https://internal.bciaustralia.com/sales/firm_view.cfm?sub_firmID=56997167",
+      "title": "BCI Internal Link :",
       "properties": [
         {
           "label": "BCI Internal CRM Page",
